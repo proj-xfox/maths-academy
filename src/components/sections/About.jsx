@@ -37,11 +37,11 @@ function About() {
                     {/* Quick Highlights */}
                     <div className="mt-8 grid grid-cols-2 gap-6">
                         <div>
-                            <h4 className="text-2xl font-bold text-primary">15+</h4>
+                            <h4 className="text-2xl font-bold text-primary">5+</h4>
                             <p className="text-sm text-gray-500">Years Experience</p>
                         </div>
                         <div>
-                            <h4 className="text-2xl font-bold text-primary">1000+</h4>
+                            <h4 className="text-2xl font-bold text-primary">500+</h4>
                             <p className="text-sm text-gray-500">Students Mentored</p>
                         </div>
                         <div>

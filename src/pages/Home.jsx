@@ -7,6 +7,7 @@ import Results from "../components/sections/Results";
 import WhyChooseUs from "../components/sections/WhyChooseUs";
 import Testimonials from "../components/sections/Testimonials";
 import EnquiryForm from "../components/sections/EnquiryForm";
+import VideoSection from "../components/sections/VideoSection";
 
 function Home() {
     return (
@@ -16,6 +17,7 @@ function Home() {
             <main>
                 <Hero />
                 <About />
+                <VideoSection />
                 <Courses />
                 <Results />
                 <WhyChooseUs />
